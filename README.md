@@ -26,7 +26,7 @@ An autonomous, production-grade multi-agent financial analytics platform featuri
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/financial_intelligence_hub.git](https://github.com/YOUR_USERNAME/financial_intelligence_hub.git)
+   git clone [https://github.com/Hyperdax-Rik/Financial_Intelligence_Hub.git](https://github.com/Hyperdax-Rik/Financial_Intelligence_Hub.git)
    cd financial_intelligence_hub
 **Install dependencies:**
 ```bash
