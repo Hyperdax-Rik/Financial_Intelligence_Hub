@@ -34,6 +34,7 @@ pip install -r requirements.txt
 ```
 **Set your Groq API key:**
 Linux/macOS: export GROQ_API_KEY="your_api_key_here"
+
 Windows (PowerShell): $env:GROQ_API_KEY="your_api_key_here"
 
 **Launch the application:**
