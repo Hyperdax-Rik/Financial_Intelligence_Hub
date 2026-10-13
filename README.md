@@ -17,7 +17,7 @@ An autonomous, production-grade multi-agent financial analytics platform featuri
 ## 🛠️ Tech Stack
 
 * **Frontend/UI:** Streamlit, Plotly, Custom CSS (Midnight-Slate Theme)
-* **Backend Intelligence:** Groq API (`llama-3.3`), Multi-agent orchestration
+* **Backend Intelligence:** Groq API (`openai/gpt-oss-120b`), Multi-agent orchestration
 * **Data Layer:** DuckDB, ChromaDB, `yfinance`
 
 ---
